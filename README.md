@@ -28,9 +28,6 @@ names come out only at the end.
 >
 > **Claude:** That was the last match. The winner is Double-X 5222 pushed to 500. Every match, with names: ...
 
-Made for choosing a black and white film look for a music video, among options too close to judge with their names
-on them.
-
 ![A match: the same frame of a music video in two film looks, labelled only "match 1, picture 1" and "match 1, picture 2"](docs/screenshot.jpg)
 
 (In a duel each picture fills the screen on its own; here both are shown side by side.)
