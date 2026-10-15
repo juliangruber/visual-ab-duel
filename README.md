@@ -5,6 +5,29 @@ stocks, grades, renders, designs) without bias: a blind pairwise tournament. Cla
 per message, labelled only "match M, picture N", in random pairing and order. You answer 1, 2 or too close, and the
 names come out only at the end.
 
+> **You:** I can't pick between these film looks. Can we do a blind duel? The current look is in too.
+>
+> **Claude:** Match 1: picture 1 and picture 2 are open in Preview. Which do you prefer: 1, 2, or too close?
+>
+> **You:** 2
+>
+> **Claude:** Match 2: picture 1 and picture 2 are open in Preview. Which do you prefer: 1, 2, or too close?
+>
+> **You:** Too close. I like the grain of 1 but the blacks of 2.
+>
+> **Claude:** Noted. That pair comes back after another match. Match 3: picture 1 and picture 2 are open in Preview.
+> Which do you prefer: 1, 2, or too close?
+>
+> **You:** 1, it's softer
+>
+> ...
+>
+> **Claude:** Match 9 is the pair from match 2 again: picture 1 and picture 2 are open in Preview. Which do you prefer?
+>
+> **You:** 2, but it's close
+>
+> **Claude:** That was the last match. The winner is Double-X 5222 pushed to 500. Every match, with names: ...
+
 Made for choosing a black and white film look for a music video, among options too close to judge with their names
 on them.
 
